@@ -1,0 +1,25 @@
+{
+  "name": "linuxjs-git",
+  "version": "0.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "./test/vows.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/co2-git/linuxjs-git.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "francoisrvespa@gmail.com",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/co2-git/linuxjs-git/issues"
+  },
+  "dependencies": {
+    "linuxjs": "0.0.x",
+    "lib-import": "0.1.0"
+  }
+}
